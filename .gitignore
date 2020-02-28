@@ -1,0 +1,10 @@
+# Gradle project-specific cache directory
+.gradle
+local.properties
+
+# Build output directories
+/**/out
+/**/build
+
+# IDE
+.idea

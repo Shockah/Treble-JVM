@@ -1,0 +1,4 @@
+dependencies {
+	api project(':bass')
+	implementation 'net.java.dev.jna:jna:5.3.1'
+}

@@ -1,0 +1,4 @@
+dependencies {
+	implementation 'net.java.dev.jna:jna:5.3.1'
+	api 'com.github.Shockah.Unikorn:core:1da797c22867ae05ab9b3ca2c828eedec34ab936'
+}

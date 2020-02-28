@@ -1,0 +1,8 @@
+rootProject.name = 'Treble'
+
+include 'bass'
+include 'bass:enc'
+include 'bass:mix'
+include 'bass:tags'
+include 'bass:flac'
+include 'bass:opus'
